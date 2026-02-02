@@ -1,13 +1,15 @@
 <h3 align="left">Hi 👋, I'm Mayank Puri</h3>
 
-- 🔭 I’m currently working on *Web Development projects*
-- 🌱 I’m currently learning *Data Structures and React*
-- 👯 I’m looking to collaborate on *Web Projects*
+- 🔭 I’m currently working on my Python skills.
+- 🌱 Python, AWS, SQL
 - 📫 How to reach me: LinkedIn - [Mayank](https://www.linkedin.com/in/mayank-puri-752033185/)
 - ⚡ Fun fact: I loves to draw.
 
 <br>
 <p align="left">
+	<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/sql-4479A1.svg?&style=for-the-badge&logo=database&logoColor=white" height="25"/>
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 	<img src="https://img.shields.io/badge/Java-F7DF1E.svg?&style=for-the-badge&logo=java&logoColor=blue" height="25"/>
 	<img src="https://img.shields.io/badge/html-8892BF.svg?&style=for-the-badge&logo=html&logoColor=black" height="25"/>
